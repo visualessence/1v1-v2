@@ -1,0 +1,11 @@
+name: OneVsOne
+version: 1.0.0
+main: gg.larp.onevone.OneVsOne
+api-version: '1.21'
+commands:
+  1v1:
+    usage: /1v1 <player1> <player2>
+  addpoint:
+    usage: /addpoint <player>
+  win:
+    usage: /win <player>
